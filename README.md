@@ -3,6 +3,4 @@
 ### small
 #### smaller
 ##### even smaller?
-###### how small can it go
-####### is there a limit
-######## lolll llolol
+###### not smaller but grey???
